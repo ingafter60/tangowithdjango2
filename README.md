@@ -10,6 +10,7 @@
 
     > 3.1 Modified README (Testing the setup) 
     > 3.2 Creating Your Django Project
+    > 3.3 Creating a Django App 'rango' and register it to core
 
 
 
