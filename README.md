@@ -5,4 +5,26 @@
     > 2.1 Initial setup
     > 2.2 Create virtual environment and install django 2.1.5
     > 2.3 Install Pillow
-    > 2.4 Testing the setup
+
+## 3. Django Basics
+
+    > 3.1 Modified README (Testing the setup) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
