@@ -9,7 +9,7 @@
 ## 3. Django Basics
 
     > 3.1 Modified README (Testing the setup) 
-
+    > 3.2 Creating Your Django Project
 
 
 
