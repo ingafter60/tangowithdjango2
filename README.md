@@ -35,6 +35,12 @@
         new file:   rango/static/images/rango.JPG
         modified:   rango/templates/rango/index.html
         new file:   rango/urls.py
+    > 4.3 Serving Media    
+        modified:   README.md
+        modified:   config/__pycache__/settings.cpython-38.pyc
+        modified:   config/__pycache__/urls.cpython-38.pyc
+        modified:   config/settings.py
+        modified:   config/urls.py
 
 
 
