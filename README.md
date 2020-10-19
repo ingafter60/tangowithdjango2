@@ -23,7 +23,19 @@
         modified:   rango/__pycache__/views.cpython-38.pyc
         new file:   rango/templates/rango/index.html
         modified:   rango/views.py
-    
+    > 4.2 Serving Static Media Files
+        modified:   .gitignore
+        modified:   README.md
+        new file:   _sourcecodes
+        modified:   config/__pycache__/settings.cpython-38.pyc
+        modified:   config/__pycache__/urls.cpython-38.pyc
+        modified:   config/settings.py
+        modified:   config/urls.py
+        new file:   rango/__pycache__/urls.cpython-38.pyc
+        new file:   rango/static/images/rango.JPG
+        modified:   rango/templates/rango/index.html
+        new file:   rango/urls.py
+
 
 
 
