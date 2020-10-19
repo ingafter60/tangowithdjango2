@@ -14,7 +14,16 @@
     > 3.4 Creating a View
     > 3.5 Mapping URLs
 
+## 4. Templates and Media Files
 
+    > 4.1 Using Templates
+        modified:   README.md
+        modified:   config/__pycache__/settings.cpython-38.pyc
+        modified:   config/settings.py
+        modified:   rango/__pycache__/views.cpython-38.pyc
+        new file:   rango/templates/rango/index.html
+        modified:   rango/views.py
+    
 
 
 
